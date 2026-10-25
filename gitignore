@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.tmp
+results/smoke_*.json
+.ipynb_checkpoints/
