@@ -24,8 +24,10 @@ decoding/
   matched_decoder.py     MWPM decoder matched to the noise marginal rate
 experiments/
   memory_builder.py      base circuit + per-shot noise injection
+scripts/
   run_temporal_storm_sweep.py
   run_automaton_sweep.py
+  validate_bath_density.py   bath density / susceptibility check vs the paper
   plot_results.py
 results/                 storm_sweep.json, automaton_sweep.json, figures/
 ```
